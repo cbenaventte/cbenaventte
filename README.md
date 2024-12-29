@@ -61,11 +61,22 @@ Here are some ideas to get you started:
 
 ## 📫 Contacto
 
-
 <p align="left">
-  <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-gmail.svg" alt="Email">[correo](mailto:cbenaventte@gmail.com) <br>
-  <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-medium.svg" alt="Medium">[Mis Artículos en Medium](https://medium.com/@eloidopensante) <br>
-  <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-resume-286AWVXNTL.svg" alt="Resume">[Mi CV](https://cbenaventte.github.io/Mi_CV)
+  <a href="mailto:cbenaventte@gmail.com">
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-gmail.svg" alt="Email"> Correo
+  </a>
+  <br>
+  <a href="https://medium.com/@eloidopensante">
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-medium.svg" alt="Medium"> Mis Artículos en Medium
+  </a>
+  <br>
+  <a href="https://cbenaventte.github.io/Mi_CV">
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-resume-286AWVXNTL.svg" alt="Resume"> Mi CV
+  </a>
+  <br>
+  <a href="https://gadgetstropolis.blogspot.com">
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-blog.svg" alt="Blog"> Mi Blog
+  </a>
 </p>
 
 
