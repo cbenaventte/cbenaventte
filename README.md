@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-gmail.svg" alt="Email">[correo](mailto:cbenaventte@gmail.com) <br>
   <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-medium.svg" alt="Medium">[Mis Artículos en Medium](https://medium.com/@eloidopensante) <br>
-  <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-resume-286AWVXNTL.svg" alt="Resume">[Mi CV](https://github.com/cbenaventte/Mi_CV)
+  <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-resume-286AWVXNTL.svg" alt="Resume">[Mi CV](https://cbenaventte.github.io/Mi_CV)
 </p>
 
 
