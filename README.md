@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   </a>
   <br>
   <a href="https://cbenaventte.github.io/portfolio-datos">
-    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-portfolio-286AWVXNTL.svg" alt="Portfolio"> Mi Portafolio
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-resume-286AWVXNTL.svg" alt="Portfolio"> Mi Portafolio
   </a>
 </p>
 
