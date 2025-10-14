@@ -77,6 +77,9 @@ Here are some ideas to get you started:
   <a href="https://gadgetstropolis.blogspot.com">
     <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/icons8-blog.svg" alt="Blog"> Mi Blog
   </a>
+  <a href="https://cbenaventte.github.io/portfolio-datos">
+    <img width="30px" src="https://raw.githubusercontent.com/cbenaventte/cbenaventte/main/reshot-icon-portfolio-286AWVXNTL.svg" alt="Portfolio"> Mi Portafolio
+  </a>
 </p>
 
 
